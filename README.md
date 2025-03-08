@@ -11,3 +11,4 @@ export LANG="en_US.UTF-8"
 export LC_CTYPE="en_US.UTF-8"
 ```
 - from [here](https://apple.stackexchange.com/a/463210)
+- man manual [tldr.sh](https://tldr.sh)
