@@ -6,7 +6,7 @@
 - open .zshrc in editor
   -  location -> `/Users/ae`
 - add
-```terminal
+```console
 export LANG="en_US.UTF-8"
 export LC_CTYPE="en_US.UTF-8"
 ```
